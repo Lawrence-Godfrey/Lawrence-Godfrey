@@ -4,9 +4,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&exclude_repo=IMU-Gesture-Detection,Music-Speech-Classification,Sonar-Design)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&exclude_repo=IMU-Gesture-Detection,Music-Speech-Classification,Sonar-Design&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=IMU-Gesture-Detection,Music-Speech-Classification,Sonar-Design)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=IMU-Gesture-Detection,Music-Speech-Classification,Sonar-Design&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ### Languages and Tools:
