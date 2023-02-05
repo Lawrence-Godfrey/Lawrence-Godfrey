@@ -1,8 +1,13 @@
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-Godfrey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 ### Languages and Tools:
 
